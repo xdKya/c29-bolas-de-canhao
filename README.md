@@ -1,1 +1,3 @@
-# c29-bolas-de-canhao
+# PiratesInvasionStage-6
+
+adding sounds and score
